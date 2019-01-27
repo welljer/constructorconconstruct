@@ -17,6 +17,6 @@ you will then have ten chances to guess the correct letters of the word if you s
 ![picture that shows winning screen]()
 
 if you should lose:
-![pictue of losing screen]()
+![pictue of losing screen](https://github.com/welljer/constructorconconstruct/blob/master/images/loss.JPG)
 
 in both cases you will be asked if you would like to play again as well as have the win/lose counter increment.
