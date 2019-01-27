@@ -1,5 +1,5 @@
 # Constructorconconstruct!
-This project is a spin-off from the classic word guess game created earlier, however we will be using the command line via node to to play the game this time around
+This project is a spin-off from the classic word guess game created earlier, however we will be using the command line via node to to play the game this time around.
 
 ## Technology and packages used
 
