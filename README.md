@@ -14,9 +14,11 @@ Upon starting you will be asked to enter your name and asked if you would like t
 ![picture that shows starting the game]()
 
 you will then have ten chances to guess the correct letters of the word if you should win:
-[picture that shows winning screen](https://github.com/welljer/constructorconconstruct/blob/master/images/win.JPG)
+
+![picture that shows winning screen](https://github.com/welljer/constructorconconstruct/blob/master/images/win.JPG)
 
 if you should lose:
-[pictue of losing screen](https://github.com/welljer/constructorconconstruct/blob/master/images/loss.JPG)
+
+![pictue of losing screen](https://github.com/welljer/constructorconconstruct/blob/master/images/loss.JPG)
 
 in both cases you will be asked if you would like to play again as well as have the win/lose counter increment.
