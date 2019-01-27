@@ -11,7 +11,8 @@ This project is a spin-off from the classic word guess game created earlier, how
 
 ## How to play
 Upon starting you will be asked to enter your name and asked if you would like to play:
-![picture that shows starting the game]()
+
+![picture that shows starting the game](https://github.com/welljer/constructorconconstruct/blob/master/images/starting.JPG)
 
 you will then have ten chances to guess the correct letters of the word if you should win:
 
